@@ -1,0 +1,11 @@
+Package: debates
+Title: Presidential Debate Transcripts
+Version: 0.0.0.9000
+Authors@R: person("James", "Martherus", email = "james@martherus.com",
+                  role = c("aut", "cre"))
+Description: Includes tidy versions of canidate, vice presidential, and presidential debates from 2012-2020 
+Depends: R (>= 3.5.0)
+License: MIT
+LazyData: false
+RoxygenNote: 6.1.1
+Encoding: UTF-8
