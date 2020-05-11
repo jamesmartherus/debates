@@ -3,5 +3,9 @@
 .RData
 .Ruserdata
 raw-data/*
+raw-data-scraped/*
 raw-data-unedited/*
+raw-data-scraped-unedited/*
 figures/*
+WordNet-3.0/*
+R/*
