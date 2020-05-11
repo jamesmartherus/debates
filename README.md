@@ -20,7 +20,7 @@ Alternatively, you can download transcripts.rda directly from the `data` folder.
 ```
 library(debates)
 
-data(transcripts.df) #Load Transcript Data File
+data(debate_transcripts) #Load Transcript Data File
 ```
 
 ## Acknowledgments
