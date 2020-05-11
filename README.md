@@ -23,7 +23,7 @@ library(debates)
 data(transcripts.df) #Load Transcript Data File
 ```
 
-# Acknowledgments
+### Acknowledgments
 
 - Transcripts were gathered from a variety of sources including [Rev.com](https://www.rev.com/blog/transcript-category/debate-transcripts?view=all), [debates.org](https://www.debates.org/voter-education/debate-transcripts/), and a variety of news sites. 
 
