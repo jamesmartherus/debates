@@ -1,8 +1,8 @@
 # `debates`: US Presidential Debate Transcripts <img src="man/figures/logo.png" align="right" width=120 />
 
-Presidential debates are an important opportunity for candidates to share their platforms. `debates` provides easy access to debate transcripts from Presidential, Vice Presidential, and primary candidate debates. The current version includes Presidential and Vice-Presidential debate transcripts starting in 1960, and for most debates from the 2012, 2016, and 2020 primary elections. `debates` includes one dataset, transcripts.df, as a compact RData object. Once the package is installed and loaded, the dataset can be loaded using the `data()` function.
+Presidential debates are an important opportunity for candidates to share their platforms. `debates` provides easy access to debate transcripts from Presidential, Vice Presidential, and primary candidate debates. The current version includes Presidential and Vice-Presidential debate transcripts starting in 1960, and for most debates from the 2012, 2016, and 2020 primary elections. `debates` includes one dataset, `debate_transcripts`, as a compact rda object. Once the package is installed and loaded, the dataset can be loaded using the `data()` function.
 
-transcripts.df includes speaker-level and debate-level data. Each row in transcripts.df represents one statement. Along with the text of the statement, each row includes the speaker's name and an indicator variable that identifies whether or not the speaker is a candidate (as opposed to being a moderator, an announcer, or someone asking a question). Each row also indicates the date, location, and type of debate. To suggest additional fields, please open an issue. 
+`debate_transcripts` includes speaker-level and debate-level data. Each row in `debate_transcripts` represents one statement. Along with the text of the statement, each row includes the speaker's name and an indicator variable that identifies whether or not the speaker is a candidate (as opposed to being a moderator, an announcer, or someone asking a question). Each row also indicates the date, location, and type of debate. To suggest additional fields, please open an issue. 
 
 ## Installation
 
@@ -13,7 +13,7 @@ library(devtools)
 install_github("jamesmartherus/debates")
 ```
 
-Alternatively, you can download transcripts.RData directly from the `data` folder. 
+Alternatively, you can download transcripts.rda directly from the `data` folder. 
 
 ## Examples
 
