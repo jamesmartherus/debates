@@ -15,7 +15,7 @@
 #' }
 #'
 #' @docType data
-#' @usage data(timeseries_cum)
+#' @usage data(debate_transcripts)
 #' @keywords datasets
 #' @name debate_transcripts
 #' @format A tibble.

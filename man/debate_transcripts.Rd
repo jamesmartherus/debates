@@ -17,7 +17,7 @@
 Various sources, including \href{Rev.com}{https://www.rev.com/blog/transcript-category/debate-transcripts?view=all}, \href{debates.org}{https://www.debates.org/voter-education/debate-transcripts/}, and a variety of news sites.
 }
 \usage{
-data(timeseries_cum)
+data(debate_transcripts)
 }
 \description{
 A tibble containing transcripts for a variety of presidential debates.
