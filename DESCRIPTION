@@ -7,5 +7,5 @@ Description: Includes tidy versions of canidate, vice presidential, and presiden
 Depends: R (>= 3.5.0)
 License: MIT
 LazyData: false
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 Encoding: UTF-8
